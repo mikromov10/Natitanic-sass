@@ -1,0 +1,19 @@
+header {
+  display: flex;
+  padding-top: 40px;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #1f1f1f;
+}
+
+header ul {
+  display: flex;
+  gap: 150px;
+}
+
+header ul li a {
+  font-family: ArodoraPro-Light;
+  color: #e4e4e4;
+  font-size: 18px;
+  font-weight: 300;
+}

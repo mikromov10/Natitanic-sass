@@ -1,0 +1,37 @@
+.profil {
+    display: flex;
+    background: #414141;
+    justify-content: center;
+
+    &_ul {
+        margin-top: 32px;
+    }
+
+    &_li {
+        padding-top: 18px;
+        color: var(--text, #E4E4E4);
+        font-family: ArodoraPro-Light;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: normal;
+    }
+
+    &_lu {
+        margin-top: 32px;
+        margin-left: 115px;
+    }
+
+    &_li {
+        margin-top: 32px;
+        margin-left: 56px;
+        margin-bottom: 50px;
+    }
+
+    &_d {
+        gap: 32px;
+        display: flex;
+        justify-content: center;
+    }
+
+}
